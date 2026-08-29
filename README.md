@@ -1,5 +1,5 @@
 ## Hi, I'm Fer! 👋
-Actualemte soy estudiante de desarrollo de software...
+Actualmente soy estudiante de desarrollo de software...
 
 <!--
 **Ferxs/ferxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
