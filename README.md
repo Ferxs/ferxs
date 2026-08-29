@@ -1,5 +1,6 @@
-## Hi, I'm Fer! 👋
-Actualmente soy estudiante de desarrollo de software...
+## Hola, soy Fer! 👾
+Estudiante de Desarrollo de Software | El Salvador 
+
 
 <!--
 **Ferxs/ferxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
